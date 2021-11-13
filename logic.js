@@ -25,6 +25,7 @@ const MyFunction1 = () => {
                             button = addToCart[i];
                             button.addEventListener('click', addToCartClicked)
                           }
+                           MyFunction4()
                           
                           
                           
